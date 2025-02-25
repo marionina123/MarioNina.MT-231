@@ -5,3 +5,4 @@
    - Crear una carpeta llamada `practica_shell` en el directorio personal (`mkdir`).  
    - Acceder a `practica_shell` (`cd practica_shell`).  
    - Mostrar el directorio actual (`pwd`). 
+.
