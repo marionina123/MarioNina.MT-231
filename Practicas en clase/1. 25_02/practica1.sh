@@ -6,3 +6,4 @@ cd ~
 mkdir  -p practica_shell
 cd patrica_shell
 pwd
+.
